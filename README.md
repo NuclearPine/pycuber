@@ -4,6 +4,8 @@ Inspired by [csTimer](https://cstimer.net). Built with the [Textual](https://git
 
 Scrambles are generated via a random-state generation method which is then solved via Kociemba's algorithm.
 
+![pycuber screenshot](assets/screenshot.png)
+
 # Installation
 
 Install using [uv](https://github.com/astral-sh/uv) (recommended):
