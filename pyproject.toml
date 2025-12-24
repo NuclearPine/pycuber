@@ -1,7 +1,7 @@
 [project]
 name = "pycuber"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple TUI app for 3x3 speedsolving training"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
